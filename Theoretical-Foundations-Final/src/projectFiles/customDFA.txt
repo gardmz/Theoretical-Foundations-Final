@@ -1,0 +1,12 @@
+{a, b}
+{w, x, y, z}
+w
+{w, x, y}
+(w,a)->x
+(w,b)->w
+(x,a)->y
+(x,b)->w
+(y,a)->z
+(y,b)->w
+(z,a)->z
+(z,b)->z
